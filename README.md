@@ -4,14 +4,14 @@ This project is focused on utilising multiple machine learning algorithms to dia
 About the Dataset
 The dataset used in this project is the Wisconsin Breast Cancer dataset, which consists of various features extracted from breast mass samples. The goal is to classify the samples as either malignant (M) or benign (B) based on these features.
 
-Project Tasks
-# Data Exploration: Started by exploring the dataset, understanding the features, and identifying any missing or erroneous values.
+# Project Tasks
+Data Exploration: Started by exploring the dataset, understanding the features, and identifying any missing or erroneous values.
 
-# Preprocessing and Feature Engineering: Performed necessary preprocessing steps such as handling missing values, scaling features, and encoding the target variable.
+Preprocessing and Feature Engineering: Performed necessary preprocessing steps such as handling missing values, scaling features, and encoding the target variable.
 
-# Model Training and Evaluation: Trained different classifiers, such as Random Forests and SVM, on the preprocessed dataset. Evaluate their performance using appropriate metrics and select the best-performing model.
+Model Training and Evaluation: Trained different classifiers, such as Random Forests and SVM, on the preprocessed dataset. Evaluate their performance using appropriate metrics and select the best-performing model.
 
-# Model Deployment and Submission: Deploy the selected model on the test dataset and generate predictions. 
+Model Deployment and Submission: Deploy the selected model on the test dataset and generate predictions. 
 
 # Evaluation
 The evaluation metric for this project is "Accuracy".
